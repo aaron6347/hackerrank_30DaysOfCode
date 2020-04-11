@@ -23,49 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.day18_queues_and_stacks">
-    <configuration name="day14_scope" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="hackerrank_30DaysOfCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day14_scope.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="day15_linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="hackerrank_30DaysOfCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day15_linked_list.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.day20_sorting">
     <configuration name="day16_exceptions_string_to_integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hackerrank_30DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,13 +87,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="day19_interfaces" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hackerrank_30DaysOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day19_interfaces.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day20_sorting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hackerrank_30DaysOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day20_sorting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day20_sorting" />
+        <item itemvalue="Python.day19_interfaces" />
         <item itemvalue="Python.day18_queues_and_stacks" />
         <item itemvalue="Python.day17_more_exceptions" />
         <item itemvalue="Python.day16_exceptions_string_to_integer" />
-        <item itemvalue="Python.day15_linked_list" />
-        <item itemvalue="Python.day14_scope" />
       </list>
     </recent_temporary>
   </component>
@@ -165,25 +165,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1492" height="190" key="GridCell.Tab.0.bottom" timestamp="1586516918782">
+    <state width="1492" height="190" key="GridCell.Tab.0.bottom" timestamp="1586630153578">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="190" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1586516918782" />
-    <state width="1492" height="190" key="GridCell.Tab.0.center" timestamp="1586516918782">
+    <state width="1492" height="190" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1586630153578" />
+    <state width="1492" height="190" key="GridCell.Tab.0.center" timestamp="1586630153578">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="190" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1586516918782" />
-    <state width="1492" height="190" key="GridCell.Tab.0.left" timestamp="1586516918782">
+    <state width="1492" height="190" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1586630153578" />
+    <state width="1492" height="190" key="GridCell.Tab.0.left" timestamp="1586630153577">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="190" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1586516918782" />
-    <state width="1492" height="190" key="GridCell.Tab.0.right" timestamp="1586516918782">
+    <state width="1492" height="190" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1586630153577" />
+    <state width="1492" height="190" key="GridCell.Tab.0.right" timestamp="1586630153578">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="190" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1586516918782" />
-    <state x="828" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1586273499909">
+    <state width="1492" height="190" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1586630153578" />
+    <state x="828" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1586593071203">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="828" y="276" key="com.intellij.ide.util.TipDialog/0.40.1536.824@0.40.1536.824" timestamp="1586273499909" />
+    <state x="828" y="276" key="com.intellij.ide.util.TipDialog/0.40.1536.824@0.40.1536.824" timestamp="1586593071203" />
   </component>
 </project>
